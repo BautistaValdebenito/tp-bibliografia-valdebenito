@@ -176,3 +176,14 @@
   font-weight: 500;
   font-size: large;
 }
+
+.footer {
+  margin: 0px;
+  padding: 0px;
+  height: max-content;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  background: rgb(19, 19, 19);
+}
